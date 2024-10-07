@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm [Esmael Mohamed] 👋
 
-![Rainy Sky Header](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
+![Rainy Sky Header](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
 
 ### 🌟 Software Engineering Student at ALX  
 - 💻 I love coding and learning new technologies  
@@ -65,6 +65,6 @@ I’m passionate about learning data structures and algorithms and love working 
 ### 🌱 Animated GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&exclude_repo=your-excluded-repos&langs_count=8&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esmaelmohamed&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esmaelmohamed&exclude_repo=your-excluded-repos&langs_count=8&layout=compact&theme=radical"/>
 </p>
