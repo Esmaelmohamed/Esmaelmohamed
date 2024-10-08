@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Esmaelmohamed/Esmaelmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm [Esmael Mohamed] 👋
 
-![Rainy Sky Header](https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif)
+![Rainy Sky Header](https://i.pinimg.com/originals/48/13/ec/4813ec6e772753f6a9855e0d3bf314ff.gif)
 
 ### 🌟 Software Engineering Student at ALX  
 - 💻 I love coding and learning new technologies  
